@@ -15,6 +15,13 @@ body {
     background: url(./background.jpg);
     background-size: cover;
 }
+.promo{
+    font-family: initial;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-around;
+    color: red;
+}
 
 .container {
     width: 400px;
