@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+#myVideo{
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        min-width: 100%;
+        min-height: 100%;
+}
+.parent{
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 85px;
+}
+.gif{
+    border-radius: 60px;
+    margin-right: 20px;
+}
+.click{
+    position: fixed;
+    color: white;
+    font-size: 37px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    display: flex;
+}
+.information{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 40px;
+}
+#sectionOne{
+    display: flex;
+    margin-left: 15%;
+}
+.mecDiv{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1500px;
+    /* height: 900px; */
+}
