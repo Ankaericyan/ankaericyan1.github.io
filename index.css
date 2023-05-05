@@ -668,13 +668,16 @@ p {
 		padding-left: 20px;
 	}
 	/* End contact  */
-	#contact .contact-info h2 {
-		font-size: 1.0rem;
-	}
+	
 }
 /* End Media Query For Tablet */
 
 /* Media Query For Desktop */
+@media only screen and (min-width: 900px) {
+	#contact .contact-info h2 {
+		font-size: 1.0rem;
+	}
+}
 @media only screen and (min-width: 1200px) {
 	/* header */
 	#header .hamburger {
