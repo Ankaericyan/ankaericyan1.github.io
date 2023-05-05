@@ -668,6 +668,9 @@ p {
 		padding-left: 20px;
 	}
 	/* End contact  */
+	#contact .contact-info h2 {
+		font-size: 1.0rem;
+	}
 }
 /* End Media Query For Tablet */
 
